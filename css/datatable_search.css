@@ -1,0 +1,7 @@
+.dataTables_length select {
+   /*background-color: black;*/
+}
+.dataTables_filter input {
+ background-color: black;
+ display: none;
+}  
