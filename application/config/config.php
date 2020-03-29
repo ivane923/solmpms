@@ -1,3 +1,4 @@
+
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 
@@ -18,7 +19,7 @@
 if ($_SERVER['HTTP_HOST'] == 'localhost') {
         $config['base_url']     = "http://localhost/shrine/";
 } else {
-        $config['base_url']     = "http://" . $_SERVER['HTTP_HOST'] . "/";
+        $config['base_url']     = "https://ivane923.github.io/solmpms/";
 }
 
 /*
